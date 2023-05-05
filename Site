@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Culinarios</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+        <header>
+            <div class="center">
+            </div>
+            <h1>Feijoada</h1>
+            <h2>Comida tradicional brasileira</h2>
+        </header>
+
+        <main>
+            <section>
+                <h3>Historia da Feijoada</h3>
+                <p>
+Historiadores e especialistas da culinária indicam que esse tipo de prato – que mistura vários tipos de carnes, legumes e verduras – é milenar. Remonta possivelmente da área mediterrânica à época do Império Romano, segundo Câmara Cascudo. Pratos similares na cozinha latina seriam o cozido, em Portugal; o cassoulet, na França; apaella, à base de arroz, na Espanha; e a casouela e o bollito misto, na Itália.
+Mas a feijoada tem as especificidades da culinária brasileira. O feijão preto é originário da América do Sul e era chamado pelos guaranis de comanda, comaná ou cumaná. A farinha de mandioca também tem origem americana, sendo adotada como componente básico da alimentação pelos africanos e europeus que vieram para o Brasil. Roças de feijão e mandioca eram plantadas em diversos locais, inclusive nos espaços domésticos, em torno das residências, principalmente das classes populares.
+Segundo Carlos Alberto Dória, a origem da feijoada estaria no “feijão gordo”, o ensopado da leguminosa acrescido de toucinho e carne seca. A feijoada seria esse “feijão gordo” enriquecido ao extremo, com linguiças, legumes, verduras e carnes de porco.
+A inclusão do último ingrediente acima indicado levou Câmara Cascudo a questionar se a feijoada seria invenção dos africanos escravizados: sendo boa parte dos africanos seguidora do islamismo, como poderiam ter incluído a carne de porco no prato, já que a religião interdita seu consumo.
+                </p>
+            </section>
+            <section>
+                <h2>
+                 <ul> Ingredientes   </ul>
+                </h2>
+                <li>
+                    5 copos medidores de feijão preto </li>
+                   <li> 7 copos medidores de água</li>
+                   <li> ½ kg de carne seca cortada em pedaços</li>
+                  <li>  ½ kg de linguiça calabresa defumada cortada em rodelas</li>
+                   <Li> 1 xícara de chá de paio cortado em rodelas</Li>
+                  <li>  1 xícara de chá de bacon picado </li>
+                   <Li> Louro em pó a gosto </Li>
+                  <li>  2 colheres de sopa de óleo para refogar</li>
+                    <li>1 cebola média picada</li>
+                   <li> 4 dentes de alho amassados</li>
+                  <Li>  1 colher de sopa de molho de pimenta</Li>
+                    <li> Sal a gosto </li>
+
+                    
+                 <h2>
+                Modo de preparo
+               </h2>
+                <p>
+                Limpe bem a carne seca e deixe de molho para dessalgar dentro da geladeira por pelo menos um dia.
+                Troque a água algumas vezes.
+                Lave o feijão e deixe de molho na água na cuba da panela por 2 horas.
+                Junte as carnes ao feijão na cuba da panela de pressão.
+                Junte o louro em pó e o tablete de caldo de bacon.
+                Feche a panela e pressione a tecla feijão.
+                O display apresentará o sinal P40 (Programa 40 min) que é o tempo necessário para o preparo dessa quantidade de feijão.
+                Deixe que a panela funcione normalmente.
+                Em outra panela, refogue o bacon, o alho e a cebola no óleo.
+                Reserve.
+                Após o preparo, gire a válvula de controle de pressão para liberação do vapor e aguarde o destravamento da tampa.
+                Abra com cuidado e acrescente os temperos refogados.
+                Acerte o sal e o molho de pimenta.
+                DICA
+                Se quiser manter o feijão aquecido até a hora de servir, feche a panela e pressione a tecla AQUECE CANCELA.
+                A lâmpada-piloto dessa função (verde) irá aceder.
+                Na hora de servir, pressione a tecla AQUECE CANCELA e vire a válvula de controle de pressão para a esquerda para a liberação do vapor.
+                Abra a panela com cuidado e transfira para uma travessa.
+                Sirva a seguir.
+
+                </p>
+                <Ul>Acompanhamentos</Ul>
+                <Li>Torresmo</Li>
+                <li>Couve refogado</li>
+                <h2>Torresmo</h2>
+                <h2>Ingredientes</h2>
+                <p>1 kg de torresmo em cubos (panceta ou toicinho)
+                    Sal a gosto
+                    1/2 copo de óleo</p>
+                <h3>Receita</h3>
+                <p>Tempere os torresmos com o sal e deixe descansar por uns 15 minutos.Coloque um pouco de óleo numa panela e quando estiver quente, coloque os cubos do torresmo. Tampe a panela para não emporcalhar o fogão.
+                    Com uma colher de pau vá mexendo de vez em quando para não grudar um torresmo no outro. Eles vão soltar mais gordura ainda e quando estiverem opacos, com cara de que estão fritos, desligue o fogo, retire daquela gordura os torresmos e coloque-os na geladeira para esfriar. Reserve a gordura.
+                    Quando os mesmos estiverem frios (não gelados), esquente a gordura novamente e quando estiver frigindo, coloque de volta os torresmos e vá mexendo até eles pururucarem. Retire após e coloque em um recipiente com papel toalha.</p>
+                <h2>Couve refogado</h2>
+                <h2>ingredientes</h2>
+                1 pé de couve grande
+                3 dentes de alho grande
+                1 colher (sopa) cheia de margarina
+                1 folha de louro
+                  sal a gosto
+                <h3>Receita</h3>
+                
+                <p>Lave e corte a couve em tirar finas, reserve.
+                    Leve uma panela pequena ao fogo.
+                    Coloque a manteiga, o alho amassado, o louro e deixe dourar.
+                    Acrescente a couve e abaixe o fogo.
+                    Coloque sal a gosto.
+                    Mexa e não precisa adicionar água, pois a couve já solta água.
+                    Espere cozinhar por uns 3 minutinhos somente e está pronta.</p>
+                    <div class="imagem-feijoada">
+                <img src="https://tse4.mm.bing.net/th?id=OIP.JjQ19mgEKxWQHMAd5A40ZQHaE_&pid=Api&P=0" alt="">
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            
+
+</body>
+
+</html>
+
+body {
+    color: white;
+    background-image: url(culinaria-mexicana-receitas-em-espanhol-wizard-idiomas.jpg); background-repeat: no-repeat;background-size: 250%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #ffffff;
+}
+
+.center {
+    text-align: center;
+}
+.imagem-feijoada{padding-left: 30%;}
+h1 {
+    color: #ffffff;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+.container {
+    padding: 0px 50px;
+}
+
+nav a {
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: #ffffff;
+}
